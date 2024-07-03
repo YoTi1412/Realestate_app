@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { useContext } from "react";
 import SearchBar from "../../components/searchBar/SearchBar";
 import "./homePage.scss";
