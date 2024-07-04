@@ -12,8 +12,6 @@
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 Realestate_app is a comprehensive real estate application that allows users to list, browse, and manage properties. This application includes features like real-time updates, user authentication, and an intuitive user interface.
